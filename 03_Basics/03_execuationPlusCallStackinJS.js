@@ -1,6 +1,6 @@
 // +++++++++++++++++++++ Execuation and Call Stack in Javascript ++++++++++++++++++++++++++
 
-//There are Two Phases of Control Flow of JS
+//There are Two Phases in JS Code Execuation and Call Stack
 
 // 1st => Execution Context
 // 2nd => Calls (Call Stack) => How functions will go into memory how they will perform and come out of memory
