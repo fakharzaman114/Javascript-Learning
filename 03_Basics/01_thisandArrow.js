@@ -62,7 +62,11 @@ const addTwoNumbers = (num1, num2) => {
 }
 
 
-// const addThreeNumbers = (num1, num2, num3) => num1 + num2 + num3   // => Implicit Return Format
+//const addThreeNumbers = (num1, num2, num3) => num1 + num2 + num3   // => Implicit Return Format
+
+//const addThreeNumbers = (num1, num2, num3) => (num1 + num2 + num3)   // => Implicit Return Format
+
+const addThreeNumbers = (num1, num2, num3) => ({userName:"Ahmad"})
 
 // constFourNumbers = (num1, num2, num3, num4) => (num1 + num2 + num3 + num4)
 
